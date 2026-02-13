@@ -1,4 +1,4 @@
- Pandsa
-Plotly
-Streamlit
+pandas
+plotly
+streamlit
 openpyxl
